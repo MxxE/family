@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Org Chart Editor</title>
+<title>Family</title>
 <meta name="description" content="An organization chart editor -- edit details and change relationships." />
 <!-- Copyright 1998-2016 by Northwoods Software Corporation. -->
 <meta charset="UTF-8">
@@ -336,11 +336,11 @@
 </body>
 </html>
 
-~ $ git clone https://github.com/mxxe/mxxe.github.io
+git clone https://github.com/mxxe/mxxe.github.io
 
-~ $ cd mxxe.github.io
-~ $ echo "Family" > index.html
+cd mxxe.github.io
+echo "Family" > index.html
 
-~ $ git add --all
-~ $ git commit -m "Initial commit"
-~ $ git push -u origin master
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
