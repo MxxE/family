@@ -335,3 +335,12 @@
 </div>
 </body>
 </html>
+
+~ $ git clone https://github.com/mxxe/mxxe.github.io
+
+~ $ cd mxxe.github.io
+~ $ echo "Family" > index.html
+
+~ $ git add --all
+~ $ git commit -m "Initial commit"
+~ $ git push -u origin master
